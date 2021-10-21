@@ -1,0 +1,1 @@
+start cmd.exe /k java -jar SplinterlandRewardStatistic.jar
